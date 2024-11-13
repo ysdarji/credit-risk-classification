@@ -31,7 +31,7 @@
 
 ## The results
 
-* Using a bulleted list, describe the accuracy, precision, and recall scores of the machine learning model.
+Using a bulleted list, describe the accuracy, precision, and recall scores of the machine learning model.
 
 - Accuracy: **0.99**
 - Precision
